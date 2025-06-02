@@ -10,6 +10,7 @@
 ## Learning:
 - Express deep-dive
 - Discord.js
+- TypeScript
 
 ## Libraries:
 - discord.py
