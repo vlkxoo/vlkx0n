@@ -3,10 +3,12 @@
 ## Current languages:
 - Python
 - HTML
+- Css (basics)
+- SQL
+- JavaScript (basics)
 
 ## Learning:
-- CSS
-- JavaScript
+- Express deep-dive
 
 ## Libraries:
 - discord.py
@@ -18,8 +20,9 @@
 - Extremly good error handling
 - Fast but perfect coding
 - Proper API requests
+- Basic backend development
 
 ## Currently working on:
-- Vlad's Selfbot
-- Swap bot
-- Yvso slot bot
+- Easy-helper bot (discord.py)
+- Middleman bot (discord.py)
+- Token joiner (Request based, captcha solving in py)
