@@ -9,6 +9,7 @@
 
 ## Learning:
 - Express deep-dive
+- Discord.js
 
 ## Libraries:
 - discord.py
@@ -20,7 +21,7 @@
 - Extremly good error handling
 - Fast but perfect coding
 - Proper API requests
-- Basic backend development
+- Basic backend development (Express)
 
 ## Currently working on:
 - Easy-helper bot (discord.py)
