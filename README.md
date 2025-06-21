@@ -49,4 +49,4 @@ Welcome to my GitHub! I'm passionate about building efficient Discord bots, mana
 ## 📫 Contact
 
 - [GitHub](https://github.com/vlkxoo)
-- [Discord](yourDiscordTag)
+- [Discord](https://discord.com/users/1383346265001295985)
